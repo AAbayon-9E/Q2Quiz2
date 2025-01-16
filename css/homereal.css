@@ -1,0 +1,21 @@
+body{
+	background-color: seagreen;
+	font-family: Times new Roman;
+}
+.navbar{
+	background-color: #46AA62;
+}
+.container{
+	background-color: black;
+
+	color: #00FF15 ;
+	margin-top: 20px;
+	padding: 50px;
+	border-radius: 25px;
+	
+	box-shadow: 0px 0px 0px 11px rgba(0,216,4,1);
+-webkit-box-shadow: 0px 0px 0px 5px rgba(0,216,4,1);
+-moz-box-shadow: 0px 0px 0px 11px rgba(0,216,4,1);
+
+
+}
